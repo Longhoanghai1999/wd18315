@@ -21,6 +21,7 @@
                     <td>{{ $value['id'] }}</td>
                     <td>{{ $value['name'] }}</td>
                 </tr>
+
             @endforeach
         </tbody>
     </table>
